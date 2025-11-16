@@ -15,6 +15,11 @@ I'm a **Mechatronics student** who is passionate about **Embedded Software** and
 
 ---
 
+## ⚙️ Mechatronics
+![Mechatronics Engineer](https://img.shields.io/badge/Mechatronics-Engineer-blue?style=for-the-badge&logo=robot&logoColor=white)
+
+---
+
 ## 🛠️ Languages and Tools
 
 ### 📌 Programming & Scripting
@@ -34,7 +39,6 @@ I'm a **Mechatronics student** who is passionate about **Embedded Software** and
 ---
 
 ## 📊 GitHub Stats
-
 
 ![](https://github-readme-stats.vercel.app/api?username=belalsabha&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=belalsabha&theme=default&hide_border=false)<br/>
