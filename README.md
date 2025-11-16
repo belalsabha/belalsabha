@@ -11,7 +11,7 @@ I'm a **Mechatronics student** who is passionate about **Embedded Software** and
 - 📫 How to reach me:  
   - **LinkedIn:** https://www.linkedin.com/in/belal-sabha-06ba33349  
   - **Facebook:** https://www.facebook.com/profile.php?id=100006305523458  
-  - **Gmail:** belal.sabha@example.com  <!-- belalsabha414@gmail.com -->
+  - **Gmail:** belalsabha414@gmail.com  <!-- belalsabha414@gmail.com -->
 
 ---
 
