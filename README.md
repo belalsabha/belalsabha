@@ -35,9 +35,12 @@ I'm a **Mechatronics student** who is passionate about **Embedded Software** and
 
 ## 📊 GitHub Stats
 
-![Belal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Belal-Sabha&show_icons=true&theme=tokyonight)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=belalsabha&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=belalsabha&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=belalsabha&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Belal-Sabha&layout=compact&theme=tokyonight)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
