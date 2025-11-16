@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Belal 👋</h1>
+Hey there! I'm Belal 👋
 
 ---
 
@@ -12,11 +12,6 @@ I'm a **Mechatronics student** who is passionate about **Embedded Software** and
   - **LinkedIn:** https://www.linkedin.com/in/belal-sabha-06ba33349  
   - **Facebook:** https://www.facebook.com/profile.php?id=100006305523458  
   - **Gmail:** belalsabha414@gmail.com  <!-- belalsabha414@gmail.com -->
-
----
-
-## ⚙️ Mechatronics
-![Mechatronics Engineer](https://img.shields.io/badge/Mechatronics-Engineer-blue?style=for-the-badge&logo=robot&logoColor=white)
 
 ---
 
