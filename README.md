@@ -1,16 +1,17 @@
-Hey there! I'm Belal 👋
+# Hey there! I'm Belal 👋
+
 ---
 
 ## 👨🏻‍💻 About Me
 
-I'm a **Mechatronics student** who is passionate about **Embedded Software** and low-level development.
+I'm a **Mechatronics student** passionate about **Embedded Software** and low-level development.
 
-- 🌱 Currently learning **Microcontrollers**, **Embedded Software**, **Embedded Linux**, and **AUTOSAR**.  
-- 💡 Interested in bare-metal programming, real-time systems, and automotive embedded development.  
-- 📫 How to reach me:  
-  - **LinkedIn:** https://www.linkedin.com/in/belal-sabha-06ba33349  
-  - **Facebook:** https://www.facebook.com/profile.php?id=100006305523458  
-  - **Gmail:** belalsabha414@gmail.com  <!-- belalsabha414@gmail.com -->
+- 🌱 Currently learning Microcontrollers, Embedded Software, Embedded Linux, and AUTOSAR  
+- 💡 Interested in bare-metal programming, real-time systems, and automotive embedded development  
+- 📫 Contact me:  
+  - LinkedIn: https://www.linkedin.com/in/belal-sabha-06ba33349  
+  - Facebook: https://www.facebook.com/profile.php?id=100006305523458  
+  - Gmail: belalsabha414@gmail.com  
 
 ---
 
@@ -19,7 +20,6 @@ I'm a **Mechatronics student** who is passionate about **Embedded Software** and
 ### 📌 Programming & Scripting
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
-![Script](https://img.shields.io/badge/Scripting-333333?style=for-the-badge)
 
 ### 📌 Embedded & IDEs  
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
@@ -37,8 +37,6 @@ I'm a **Mechatronics student** who is passionate about **Embedded Software** and
 ![](https://github-readme-stats.vercel.app/api?username=belalsabha&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=belalsabha&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=belalsabha&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
