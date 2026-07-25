@@ -22,7 +22,7 @@ Mechatronics Engineering student with a strong passion for Embedded Systems and 
 
 ## 🛠️ Skills
 
-`C` `C++` `ARM Cortex-M` `RTOS` `Bare-metal` `Embedded Linux` `AUTOSAR (Learning)`
+`C` `Assembly` `ARM Cortex-M` `RTOS` `Bare-metal` `System Design` 
 
 ---
 
