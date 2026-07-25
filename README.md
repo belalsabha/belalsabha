@@ -12,9 +12,7 @@
 
 Mechatronics Engineering student with a strong passion for Embedded Systems and low-level development, continuously growing my skills through learning and building real projects.
 
-- ## 🎓 Education
-- Bachelor's Degree in Mechatronics, Robotics, and Automation Engineering
-- Azhar University - Gaza (Sep 2022 – Jun 2027)
+- 🎓 Education : Bachelor's Degree in Mechatronics , AL Azhar University - Gaza (Sep 2022 – Jun 2027)
 - 🎯 Passionate about **Embedded Systems**, especially **ARM based Microcontrollers**.
 - ⚙️ Interested in **Bare-metal programming**, **RTOS**, and **Automotive systems**.
 - 🌱 Always learning and exploring new tools and technologies in the embedded world.
